@@ -74,7 +74,7 @@ For those using Tableau Public, it's recommended to change the data source conne
 - **[Notion](https://www.notion.com/templates/sql-data-warehouse-project)**: Get the Project Template from Notion
 - **[SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)**: Lightweight server for hosting your SQL database.
 - **[SQL Server Management Studio (SSMS)](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16)**: GUI for managing and interacting with databases.
-- **[Tableau Public](https://www.tableau.com/access/download/public)**: Tableau is a visual analytics platform transforming the way we use data to solve problems - empowering people and organizations to make the most of their data.
+- **[Tableau Public](https://www.tableau.com/access/download/public)**: Free tool for creating and publishing interactive data visualizations.
 
 ---
 
