@@ -68,13 +68,13 @@ Represent the distribution  of customers based on the number of  orders they hav
 -Provide users with the ability to navigate between the dashboards easily.<br>
 -Make the charts and graphs interactive, enabling users to filter data using the charts.
 
-#### Functions
--Parameters
--Buttons
+#### Tools that will be used
+-Parameters<br>
+-Buttons<br>
 -Filters
 
 ### Data Filters
 Allow users to filter data by product information like category and subcategory and by location information like region, state and city.
 
-#### Functions
+#### Tools that will be used
 Filters
