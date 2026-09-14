@@ -22,6 +22,25 @@ Below are the dashboards built as part of this project.
 [![Customer Dashboard](https://github.com/TheDataCubator/tableau_complete_project_e2e/blob/0b39ad81fdb60cfd2c300b7febb5a029aa9dc26e/docs/diagrams/Customer%20Dashboard.png)](https://public.tableau.com/views/TableauCompleteProjectE2E-SalesDashboard/CustomerDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
+## Key Insights
+
+- Identify top and underperforming subcategories in sales and profit.
+- Compare current year performance against the previous year across sales, profit, and quantity.
+- Track customer growth, order frequency, and average sales per customer.
+- Highlight top customers driving the highest profit contribution.
+- Enable faster, data-driven decision making through interactive visual analytics.
+
+---
+
+## Business Value
+
+- Supports pricing and inventory decisions by identifying underperforming subcategories.
+- Improves customer retention strategies by highlighting low-frequency buyers.
+- Strengthens account management by identifying high-value customers to prioritize.
+- Enables proactive performance monitoring through year-over-year and trend comparisons.
+- Reduces time spent on manual reporting through a centralized, interactive dashboard.
+
+---
 ## ✨Tip
 For Tableau Public users who want to save this workbook to their own device, it's recommended to change the data source connection from Live to Extract to avoid issues when trying to reopen the file.
 
