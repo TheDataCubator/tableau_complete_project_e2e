@@ -16,7 +16,7 @@ Format the dashboard using the elements below:
 
 ## Add Filters
 
-Add filters by year, product, and location in the Filter container.
+Add filters by Year, Product, and Location in the Filter section.
 
 ## Add icons
 Add icons for the company logo, navigation buttons and filter button in the dashboard. View set of 
