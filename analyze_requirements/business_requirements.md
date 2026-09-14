@@ -12,24 +12,30 @@ The purpose of sales dashboard is to present an overview of the sales metrics an
 #### KPI Overview
 Display a summary of total sales, profits and quantity for the current year and the previous year.
 
-#### Charts type<br>
+#### Chart type<br>
 Bans
 
 #### Sales Trends
 -Present the data for each KPI on a monthly basis for both the current year and the previous year.<br>
 -Identify months with highest and lowest sales and make them easy to recognize.
 
-#### Charts type
-
+#### Chart type<br>
+Line charts
 
 #### Product Subcategory Comparison
 -Compare sales performance by different product subcategories for the current year and the previous year.<br>
 -Include a comparison of sales with profit.
 
+#### Chart type<br>
+Bar charts
+
 #### Weekly Trends for Sales & Profit
 -Present weekly sales and profit data for the current year.<br>
 -Display the average weekly values.<br>
 -Highlight weeks that are above and below the average to draw attention to sales & profit performance.
+
+#### Chart type<br>
+Line charts
 
 ---
 ## Customer Dashboard | Requirements
@@ -62,5 +68,13 @@ Represent the distribution  of customers based on the number of  orders they hav
 -Provide users with the ability to navigate between the dashboards easily.<br>
 -Make the charts and graphs interactive, enabling users to filter data using the charts.
 
+#### Functions
+-Parameters
+-Buttons
+-Filters
+
 ### Data Filters
 Allow users to filter data by product information like category and subcategory and by location information like region, state and city.
+
+#### Functions
+Filters
