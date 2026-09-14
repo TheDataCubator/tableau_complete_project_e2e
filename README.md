@@ -15,13 +15,11 @@ This project includes two connected dashboards: the **Sales Dashboard** and the 
 
 Below are the dashboards built as part of this project.
 
-![Sales Dashboard](https://github.com/TheDataCubator/tableau_complete_project_e2e/blob/0b39ad81fdb60cfd2c300b7febb5a029aa9dc26e/docs/diagrams/Sales%20Dashboard.png)
+#### Sales Dashboard
+[![Sales Dashboard]([./screenshots/Sales_Dashboard.png](https://github.com/TheDataCubator/tableau_complete_project_e2e/blob/0b39ad81fdb60cfd2c300b7febb5a029aa9dc26e/docs/diagrams/Sales%20Dashboard.png))](https://public.tableau.com/views/TableauCompleteProjectE2E-SalesDashboard/SalesDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-🔗[View the interactive version on Tableau Public](https://public.tableau.com/views/TableauCompleteProjectE2E-SalesDashboard/SalesDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
-![Customer Dashboard](https://github.com/TheDataCubator/tableau_complete_project_e2e/blob/0b39ad81fdb60cfd2c300b7febb5a029aa9dc26e/docs/diagrams/Customer%20Dashboard.png)
-
-🔗[View the interactive version on Tableau Public](https://public.tableau.com/views/TableauCompleteProjectE2E-CustomersDashboard/CustomerDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+#### Customer Dashboard
+[![Customer Dashboard]([./screenshots/Customer_Dashboard.png](https://github.com/TheDataCubator/tableau_complete_project_e2e/blob/0b39ad81fdb60cfd2c300b7febb5a029aa9dc26e/docs/diagrams/Customer%20Dashboard.png))](https://public.tableau.com/views/TableauCompleteProjectE2E-CustomersDashboard/CustomerDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 ## ✨Tip
