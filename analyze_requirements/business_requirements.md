@@ -20,14 +20,14 @@ Bans
 -Identify months with highest and lowest sales and make them easy to recognize.
 
 #### Chart type<br>
-Line charts
+📈Line charts
 
 #### Product Subcategory Comparison
 -Compare sales performance by different product subcategories for the current year and the previous year.<br>
 -Include a comparison of sales with profit.
 
 #### Chart type<br>
-Bar charts
+📊Bar charts
 
 #### Weekly Trends for Sales & Profit
 -Present weekly sales and profit data for the current year.<br>
@@ -35,7 +35,7 @@ Bar charts
 -Highlight weeks that are above and below the average to draw attention to sales & profit performance.
 
 #### Chart type<br>
-Line charts
+📈Line charts
 
 ---
 ## Customer Dashboard | Requirements
