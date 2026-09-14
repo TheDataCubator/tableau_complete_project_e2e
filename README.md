@@ -47,22 +47,14 @@ tableau_complete_project_e2e/
 ├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
 |    
 ├── docs/                               # Project documentation and architecture details
-│   ├── diagrams       # Acquiring relevant information before performing data connections
-│   ├── icons                 # shows all different techniques and methods of ETL
-│   ├── image          # shows the project's architecture
-│   ├── integration_model.png           # shows how data are connected
-│   ├── data_catalog.md                 # Catalog of datasets, including field descriptions and metadata
-│   ├── data_flow_diagram.png           # data flow diagram
-│   ├── data_mart.png                   # data models (star schema)
-│   ├── naming_conventions.md           # Consistent naming guidelines for tables, columns, and files
-│   ├── data_layers.pdf                 # A one-slide-deck reference guide explaining the Bronze/Silver/Gold medallion data architecture — covering each layer's purpose, workflow, and a source-system interview checklist for onboarding new data sources.
+│   ├── diagrams                        # contains Dashboard images and project workflow
+│   ├── icons                           # shows set of icons used in the dashboards
 │
-├── scripts/                            # SQL scripts for ETL and transformations
-│   ├── bronze/                         # Scripts for extracting and loading raw data
-│   ├── silver/                         # Scripts for cleaning and transforming data
-│   ├── gold/                           # Scripts for creating analytical models
-│
-├── tests/                              # Test scripts and quality files
+│── analyze_requirements                # contains business requirements, color scheme and project workflow
+|
+|── building_charts                     # contains Calculated Field and Tooltip formulas according to chart name
+|                        
+|──building_dashboard                   # 
 │
 ├── README.md                           # Project overview and instructions
 ├── LICENSE                             # License information for the repository
