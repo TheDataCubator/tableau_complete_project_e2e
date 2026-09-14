@@ -33,9 +33,6 @@ Below are the dashboards built as part of this project.
 ---
 
 ## 💎Business Value
-
-## Business Value
-
 | Department | Benefit |
 |------------|---------|
 | Sales & Merchandising | Supports pricing and inventory decisions by identifying underperforming subcategories |
