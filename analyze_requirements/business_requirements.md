@@ -54,6 +54,8 @@ Display a summary of total number of customers, total sales per customer and tot
 #### Customer Trends
 -Present the data for each KPI on a monthly basis for both the current year and previous year.<br>
 -Identify months with highest and lowest sales and make them easy to recognize.
+
+#### Chart type<br>
 📈Line charts with ⭕small circle
 
 
