@@ -2,4 +2,4 @@
 
 ## Draw mockups for containers
 
-📄 [View full report (see page 3 for dashboard details)](./documents/report.pdf)
+📄 [View full document (see page 8 for container mockup drawing)](./documents/report.pdf)
