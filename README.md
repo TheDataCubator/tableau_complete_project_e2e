@@ -33,13 +33,12 @@ Below are the dashboards built as part of this project.
 ---
 
 ## 💎Business Value
-| Department | Benefit |
-|------------|---------|
-| Sales & Merchandising | Supports pricing and inventory decisions by identifying underperforming subcategories |
-| Marketing | Improves customer retention strategies by highlighting low-frequency buyers |
-| Sales & Account Management | Strengthens account management by identifying high-value customers to prioritize |
-| Management/Executive Team | Enables proactive performance monitoring through year-over-year and trend comparisons |
-| Operations/Analytics Team | Reduces time spent on manual reporting through a centralized, interactive dashboard |
+
+- Supports the Sales & Merchandising team in making pricing and inventory decisions by identifying underperforming subcategories.
+- Helps the Marketing team improve customer retention strategies by highlighting low-frequency buyers.
+- Strengthens account management efforts by helping the Sales team identify high-value customers to prioritize.
+- Enables the Management/Executive team to proactively monitor performance through year-over-year and trend comparisons.
+- Reduces manual reporting effort for the Operations/Analytics team through a centralized, interactive dashboard.
 
 ---
 ## ✨Tip
