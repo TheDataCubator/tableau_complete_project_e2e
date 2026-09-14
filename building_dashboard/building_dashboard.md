@@ -17,5 +17,5 @@ Format the dashboard using the elements below:
 Add filters by year, product, and location.
 
 ## Add icons
-Add icons for the company logo, navigation buttons and filter button in the dashboard.
-[View set of icons used in the Dashboard](https://github.com/TheDataCubator/tableau_complete_project_e2e/tree/3b3030303e8ff0cec11ed71cc7d25e6d069b22f6/docs/icons)
+Add icons for the company logo, navigation buttons and filter button in the dashboard. View set of 
+[icons](https://github.com/TheDataCubator/tableau_complete_project_e2e/tree/3b3030303e8ff0cec11ed71cc7d25e6d069b22f6/docs/icons) used in the Dashboard
