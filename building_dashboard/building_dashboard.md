@@ -1,6 +1,6 @@
 # 🧩Building Dashboard
 
-This is the final step of the project: building the dashboards. All previously created charts are compiled into the Sales and Customer Dashboards, arranged according to the mockup designs.
+This is the final step of the project: **building the dashboards**. All previously created charts are compiled into the **Sales** and **Customer** Dashboards, arranged according to the mockup designs. 
 
 ## Draw mockups for containers
 
