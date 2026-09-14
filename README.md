@@ -44,21 +44,20 @@ Below are the dashboards built as part of this project.
 ```
 tableau_complete_project_e2e/
 │
-├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
-|    
-├── docs/                               # Project documentation and architecture details
-│   ├── diagrams                        # contains Dashboard images and project workflow
-│   ├── icons                           # shows set of icons used in the dashboards
+├── datasets/                    # Raw datasets used for the project (ERP and CRM data)
 │
-│── analyze_requirements                # contains business requirements, color scheme and project workflow
-|
-|── building_charts                     # contains Calculated Field and Tooltip formulas that are placed inside the chart name sub-folder
-|                        
-|──building_dashboard                   # 
+├── docs/                        # Project documentation and architecture details
+│   ├── diagrams/                # Dashboard images and project workflow diagrams
+│   └── icons/                   # Icons used in the dashboards
 │
-├── README.md                           # Project overview and instructions
-├── LICENSE                             # License information for the repository
-
+├── analyze_requirements/        # Business requirements, color scheme, and project workflow
+│
+├── building_charts/             # Calculated field and tooltip formulas, organized by chart
+│
+├── building_dashboard/          # Information on assembling the final dashboards
+│
+├── README.md                    # Project overview and instructions
+└── LICENSE                      # License information for the repository
 ```
 ---
 ## ✨Tip
