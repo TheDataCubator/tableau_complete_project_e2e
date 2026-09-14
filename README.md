@@ -52,7 +52,7 @@ tableau_complete_project_e2e/
 │
 │── analyze_requirements                # contains business requirements, color scheme and project workflow
 |
-|── building_charts                     # contains Calculated Field and Tooltip formulas according to chart name
+|── building_charts                     # contains Calculated Field and Tooltip formulas that are placed inside the chart name sub-folder
 |                        
 |──building_dashboard                   # 
 │
