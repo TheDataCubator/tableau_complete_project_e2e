@@ -42,14 +42,14 @@ Below are the dashboards built as part of this project.
 
 ## Repository Structure
 ```
-data-warehouse-project/
+tableau_complete_project_e2e/
 │
 ├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
-│
+|    
 ├── docs/                               # Project documentation and architecture details
-│   ├── analyse_source_systems.md       # Acquiring relevant information before performing data connections
-│   ├── ETL Diagram.png                 # shows all different techniques and methods of ETL
-│   ├── data_architecture.png           # shows the project's architecture
+│   ├── diagrams       # Acquiring relevant information before performing data connections
+│   ├── icons                 # shows all different techniques and methods of ETL
+│   ├── image          # shows the project's architecture
 │   ├── integration_model.png           # shows how data are connected
 │   ├── data_catalog.md                 # Catalog of datasets, including field descriptions and metadata
 │   ├── data_flow_diagram.png           # data flow diagram
