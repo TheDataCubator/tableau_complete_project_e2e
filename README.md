@@ -15,10 +15,10 @@ This project includes two connected dashboards: the **Sales Dashboard** and the 
 
 Below are the dashboards built as part of this project.
 
-#### Sales Dashboard
+### Sales Dashboard
 [![Sales Dashboard](https://github.com/TheDataCubator/tableau_complete_project_e2e/blob/0b39ad81fdb60cfd2c300b7febb5a029aa9dc26e/docs/diagrams/Sales%20Dashboard.png)](https://public.tableau.com/views/TableauCompleteProjectE2E-SalesDashboard/SalesDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-#### Customer Dashboard
+### Customer Dashboard
 [![Customer Dashboard](https://github.com/TheDataCubator/tableau_complete_project_e2e/blob/0b39ad81fdb60cfd2c300b7febb5a029aa9dc26e/docs/diagrams/Customer%20Dashboard.png)](https://public.tableau.com/views/TableauCompleteProjectE2E-CustomersDashboard/CustomerDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
