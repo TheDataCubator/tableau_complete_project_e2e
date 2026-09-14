@@ -22,7 +22,7 @@ Below are the dashboards built as part of this project.
 [![Customer Dashboard](https://github.com/TheDataCubator/tableau_complete_project_e2e/blob/0b39ad81fdb60cfd2c300b7febb5a029aa9dc26e/docs/diagrams/Customer%20Dashboard.png)](https://public.tableau.com/views/TableauCompleteProjectE2E-SalesDashboard/CustomerDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
-## Key Insights
+## 🗝️Key Insights
 
 - Identify top and underperforming subcategories in sales and profit.
 - Compare current year performance against the previous year across sales, profit, and quantity.
@@ -32,7 +32,7 @@ Below are the dashboards built as part of this project.
 
 ---
 
-## Business Value
+## 💎Business Value
 
 - Supports pricing and inventory decisions by identifying underperforming subcategories.
 - Improves customer retention strategies by highlighting low-frequency buyers.
