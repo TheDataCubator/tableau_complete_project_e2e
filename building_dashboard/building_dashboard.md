@@ -1,5 +1,7 @@
 # Building Dashboard
 
+This is the final step of the project: building the dashboards. All previously created charts are compiled into the Sales and Customer Dashboards, arranged according to the mockup designs.
+
 ## Draw mockups for containers
 
 📄 View full document [project_phases(see page 8)](https://github.com/TheDataCubator/tableau_complete_project_e2e/blob/17e16e3d3c8c68e41bf00d0d53c0da7ba502ac09/analyze_requirements/project_phases.pdf) for container mockup drawing
