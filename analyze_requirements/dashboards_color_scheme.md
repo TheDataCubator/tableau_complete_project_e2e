@@ -1,6 +1,6 @@
 ## Dashboard Color Scheme
 
-Below are the colors used in the Sales & Customer Dashboard:
+Below are the colors used in the Sales & Customer Dashboard and their purposes:
 
 ### Sales Dashboard
 
