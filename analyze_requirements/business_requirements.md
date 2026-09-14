@@ -13,14 +13,14 @@ The purpose of sales dashboard is to present an overview of the sales metrics an
 Display a summary of total sales, profits and quantity for the current year and the previous year.
 
 #### Chart type<br>
-📝Bans
+📝Bans and 📈Line charts
 
 #### Sales Trends
 -Present the data for each KPI on a monthly basis for both the current year and the previous year.<br>
 -Identify months with highest and lowest sales and make them easy to recognize.
 
 #### Chart type<br>
-📈Line charts
+📈Line charts with ⭕small circle
 
 #### Product Subcategory Comparison
 -Compare sales performance by different product subcategories for the current year and the previous year.<br>
@@ -48,16 +48,27 @@ The customer dashboard aims to provide an overview of customer data, trends and 
 #### KPI Overview
 Display a summary of total number of customers, total sales per customer and total number of orders for the current year and the previous year.
 
+#### Chart type<br>
+📝Bans and 📈Line charts
+
 #### Customer Trends
 -Present the data for each KPI on a monthly basis for both the current year and previous year.<br>
 -Identify months with highest and lowest sales and make them easy to recognize.
+📈Line charts with ⭕small circle
+
 
 #### Customer Distribution by Number of Orders
 Represent the distribution  of customers based on the number of  orders they have placed to provide insights into customer behavior, loyalty and  engagement.
 
+#### Chart type<br>
+📊Histogram
+
 #### Top 10 Customers by Profit
 -Present the top 10 customers who have generated the highest profits for the company.
 -Show additional information like rank, number of orders, current sales, current profit and the last order date.
+
+#### Chart type<br>
+Table
 
 ---
 
