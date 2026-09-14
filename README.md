@@ -5,7 +5,7 @@ This project walks through the complete process of data analysis and visualizati
 
 ---
 ## ⚙️Project Workflow
-The project workflow for the Tableau Complete Project follows these steps:
+The project workflow for this project follows these steps:
 
 ![Tableau Project Workflow](docs/diagrams/tableau_project_workflow.png)
 
