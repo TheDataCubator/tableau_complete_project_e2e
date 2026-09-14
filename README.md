@@ -11,6 +11,8 @@ The project workflow for the Tableau Complete Project follows these steps:
 
 ---
 ## 🗠Dashboard Preview
+This project includes two connected dashboards: the Sales Dashboard and the Customer Dashboard. Navigation icons allow users to move seamlessly between the two views, while a filter icon enables filtering by year, product, and location. Each dashboard compares current year performance against the previous year, with color-coded indicators highlighting peak points, low points, and underperforming areas.
+
 Below are the dashboards built as part of this project.
 
 ![Sales Dashboard](https://github.com/TheDataCubator/tableau_complete_project_e2e/blob/0b39ad81fdb60cfd2c300b7febb5a029aa9dc26e/docs/diagrams/Sales%20Dashboard.png)
