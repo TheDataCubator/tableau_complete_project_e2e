@@ -77,7 +77,11 @@ For those using Tableau Public, it's recommended to change the data source conne
 - **[Tableau Public](https://www.tableau.com/access/download/public)**: Free tool for creating and publishing interactive data visualizations.
 
 ---
+## Acknowledgements
 
+This project was built following a Tableau Complete Project End-to-End tutorial by [Data With Baraa](https://www.youtube.com/@DataWithBaraa), with additional documentation and customization added independently.
+
+---
 ## License
 
 This project is licensed under the [MIT LICENSE](LICENSE). You are free to use, modify, and share this project with proper attribution.
