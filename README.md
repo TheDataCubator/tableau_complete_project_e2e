@@ -67,6 +67,7 @@ For those using Tableau Public, it's recommended to change the data source conne
 ---
 ## 🔗Important Links & Tools:
 
+- **[Clipchamp](https://clipchamp.com/en/windows-video-editor)**: video editor
 - **[Datasets](datasets/sales-dashboard-project/datasets)**: Access to the project dataset(csv files).
 - **[DrawIO](https://www.drawio.com/)**: Design data architecture, models, flows, and diagrams.
 - **[Emojipedia](https://emojipedia.org/en)**: emoji and icon collections
