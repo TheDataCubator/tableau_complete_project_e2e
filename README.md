@@ -24,11 +24,13 @@ View live dashboard by clicking on the image
 ---
 ## 🗝️Key Insights
 
-- Identify top and underperforming subcategories in sales and profit.
-- Compare current year performance against the previous year across sales, profit, and quantity.
-- Track customer growth, order frequency, and average sales per customer.
-- Highlight top customers driving the highest profit contribution.
-- Enable faster, data-driven decision making through interactive visual analytics.
+- **Total sales reached $733K in 2023**, up 20.36% year-over-year, while total quantity sold grew even faster at 26.83%, suggesting growth was driven more by volume than price increases.
+- **Profit growth (14.24%) lagged behind sales growth (20.36%)**, indicating margins may be getting squeezed as the business scales.
+- **Copiers generated the highest profit margin** among all subcategories, while **Tables, Machines, Bookcases, and Supplies all recorded losses** despite reasonable sales volume — a potential pricing or cost issue worth investigating further.
+- **Phones led all subcategories by total sales volume**, making it the top revenue driver in 2023.
+- **Customer base grew 8.62% to 693 customers**, but total orders grew faster at 28.29%, showing existing customers are ordering more frequently rather than growth being driven purely by new customer acquisition.
+- **Nearly 58% of customers placed only 1–2 orders** in 2023 (400 out of 693), highlighting a potential opportunity to improve customer retention and repeat purchase rates.
+- **Top customer Raymond Buch generated $6,781 in profit from just 3 orders** — the highest profit efficiency in the Top 10 list, compared to customers with more orders but lower profit per order.
 
 ---
 
