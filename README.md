@@ -81,7 +81,9 @@ For those using Tableau Public, it's recommended to change the data source conne
 ---
 ## Acknowledgements
 
-This project was built following a Tableau Complete Project End-to-End tutorial by [Data With Baraa](https://www.youtube.com/@DataWithBaraa), with additional documentation and customization added independently.
+This project was built following a Tableau Complete Project End-to-End tutorial by [Data With Baraa](https://www.youtube.com/@DataWithBaraa). I customized the color scheme for the Customer Dashboard(Green & Pink) versus Sales Dashboard (Blue & Orange), so users immediately notice the context shift when switching between the two views.
+
+Another customization made in this dashboard was the sub-category of parameter has been set to **Only Relevant Values** rather than All Values in Database to make the filter dependent on the first filter value.
 
 ---
 ## License
