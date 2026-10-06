@@ -5,10 +5,6 @@ This project walks through the complete process of data analysis and visualizati
 The dashboards track sales, profits, and customer behavior trends, comparing 2023 performance against 2022 accross monthly, subcategory, and customer-level views. It introduces core Tableau functions and tools through the process of building charts and dashboards.
 
 ---
-## Tools
-Tableau Public
-
----
 ## ⚙️Project Workflow
 The project workflow for this project follows these steps:
 
