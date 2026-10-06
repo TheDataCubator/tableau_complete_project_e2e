@@ -22,7 +22,8 @@ Below are the dashboards built as part of this project.
 ### Customer Dashboard
 [![Customer Dashboard](https://github.com/TheDataCubator/tableau_complete_project_e2e/blob/0b39ad81fdb60cfd2c300b7febb5a029aa9dc26e/docs/diagrams/Customer%20Dashboard.png)](https://public.tableau.com/shared/XWX7F8SWZ?:display_count=n&:origin=viz_share_link)
 
-[View live Sales Dashboard →]([https://public.tableau.com/shared/TWF5PPXX9?:display_count=n&:origin=viz_share_link](https://public.tableau.com/shared/DS76XRQKK?:display_count=n&:origin=viz_share_link))
+[View live Dashboard]([https://public.tableau.com/shared/TWF5PPXX9?:display_count=n&:origin=viz_share_link](https://public.tableau.com/shared/DS76XRQKK?:display_count=n&:origin=viz_share_link))
+
 ---
 ## 🗝️Key Insights
 
