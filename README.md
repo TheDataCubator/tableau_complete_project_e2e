@@ -1,7 +1,8 @@
 # Tableau Complete Project End-to-End (Tutorial Project)
 
 Welcome to the **Tableau Complete Project End-to-End** repository!<br>
-This project walks through the complete process of data analysis and visualization in Tableau, starting with requirements analysis and ending with fully built dashboards that answer real business questions. This project analyzes retail sales data across four tables - **Orders, Customers, Location, and Products** - covering 2020-2023 performance. The dashboards track sales, profits, and customer behavior trends, comparing 2023 performance against 2022 accross monthly, subcategory, and customer-level views. It introduces core Tableau functions and tools through the process of building charts and dashboards.
+This project walks through the complete process of data analysis and visualization in Tableau, starting with requirements analysis and ending with fully built dashboards that answer real business questions. This project analyzes retail sales data across four tables - **Orders, Customers, Location, and Products** - covering 2020-2023 performance. 
+The dashboards track sales, profits, and customer behavior trends, comparing 2023 performance against 2022 accross monthly, subcategory, and customer-level views. It introduces core Tableau functions and tools through the process of building charts and dashboards.
 
 ---
 ## Tools
