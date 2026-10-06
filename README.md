@@ -14,14 +14,15 @@ The project workflow for this project follows these steps:
 ## 🗠Dashboard Preview
 This project includes two connected dashboards: the **Sales Dashboard** and the **Customer Dashboard**. **Navigation icons** allow users to move seamlessly between the two views, while a **Filter icon** enables filtering by **year**, **product**, and **location**. Each dashboard compares **current year** performance against the **previous year**, with color-coded indicators highlighting **peak points**, **low points**, and underperforming areas.
 
-Below are the dashboards built as part of this project.
-View live dashboard by clicking on the image
+Below are the dashboards built as part of this project. 
+
 ### Sales Dashboard
 [![Sales Dashboard](https://github.com/TheDataCubator/tableau_complete_project_e2e/blob/0b39ad81fdb60cfd2c300b7febb5a029aa9dc26e/docs/diagrams/Sales%20Dashboard.png)](https://public.tableau.com/shared/TWF5PPXX9?:display_count=n&:origin=viz_share_link)
 
 ### Customer Dashboard
 [![Customer Dashboard](https://github.com/TheDataCubator/tableau_complete_project_e2e/blob/0b39ad81fdb60cfd2c300b7febb5a029aa9dc26e/docs/diagrams/Customer%20Dashboard.png)](https://public.tableau.com/shared/XWX7F8SWZ?:display_count=n&:origin=viz_share_link)
 
+[View live Sales Dashboard →]([https://public.tableau.com/shared/TWF5PPXX9?:display_count=n&:origin=viz_share_link](https://public.tableau.com/shared/DS76XRQKK?:display_count=n&:origin=viz_share_link))
 ---
 ## 🗝️Key Insights
 
